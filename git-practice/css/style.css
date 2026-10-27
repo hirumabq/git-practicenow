@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background: #f5f7fb;
+  color: #223;
+  font-family: system-ui, sans-serif;
+}
+
+.container {
+  max-width: 700px;
+  margin: 60px auto;
+  padding: 24px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px #00000012;
+}
+
+button {
+  padding: 12px 20px;
+  border: 0;
+  border-radius: 8px;
+  color: white;
+  background: #2563eb;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1d4ed8;
+}
